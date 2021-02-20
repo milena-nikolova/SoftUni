@@ -1,2 +1,3 @@
 # SoftUni
-Softuni Java Courses Excercises
+Java Professional Path
+Problems from Homework and Exams
