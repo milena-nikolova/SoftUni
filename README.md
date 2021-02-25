@@ -1,3 +1,3 @@
 # SoftUni
-Java Professional Path
+Java Professional Path:
 Problems from Homework and Exams
